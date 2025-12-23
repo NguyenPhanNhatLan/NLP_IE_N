@@ -1,0 +1,18 @@
+services:
+  nlp-ie:
+    image: ghcr.io/nguyenphannhatlan/nlp_ie:latest
+    container_name: nlp-ie
+    restart: always
+    environment:
+      - MONGO_URI=mongodb+srv://admin:admin123@label-studio.w0lrldm.mongodb.net/?appName=label-studio
+      - MONGO_DB_NAME=label-studio
+      - NER_LABELED_COLLECTION=ner_labeled_output
+      - RE_LABELED_COLLECTION=re_labeled_output
+      - MLFLOW_TRACKING_URI=https://mlflow.thonph.site/
+    networks:
+      - local-network
+networks:
+  local-network:
+    driver: bridge
+
+

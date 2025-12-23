@@ -1,0 +1,401 @@
+[{
+        "id": 1,
+        "text": "Vitamin C với tên INCI là Ascorbic Acid có nguồn gốc từ trái cây họ cam chanh, giúp làm sáng da và cải thiện tình trạng thâm nám."
+    },
+    {
+        "id": 2,
+        "text": "Niacinamide (INCI: Nicotinamide) là dẫn xuất vitamin B3 có nguồn gốc tổng hợp, giúp kiểm soát dầu và thu nhỏ lỗ chân lông cho da dầu mụn."
+    },
+    {
+        "id": 3,
+        "text": "Hyaluronic Acid hay Sodium Hyaluronate có nguồn gốc sinh học, giúp cấp ẩm sâu và cải thiện làn da khô thiếu nước."
+    },
+    {
+        "id": 4,
+        "text": "Retinol với INCI là Retinol có nguồn gốc từ vitamin A, giúp chống lão hóa và làm mờ nếp nhăn cho da trưởng thành."
+    },
+    {
+        "id": 5,
+        "text": "Chiết xuất rau má với tên INCI là Centella Asiatica Extract có nguồn gốc thực vật, giúp làm dịu và phục hồi da nhạy cảm."
+    },
+    {
+        "id": 6,
+        "text": "Salicylic Acid (INCI: Salicylic Acid) có nguồn gốc từ vỏ cây liễu, giúp làm sạch lỗ chân lông và giảm mụn đầu đen."
+    },
+    {
+        "id": 7,
+        "text": "Glycolic Acid thuộc nhóm AHA có nguồn gốc từ mía đường, giúp tẩy tế bào chết và cải thiện bề mặt da sần sùi."
+    },
+    {
+        "id": 8,
+        "text": "Panthenol hay Provitamin B5 có nguồn gốc tổng hợp, giúp phục hồi và làm dịu da đang bị kích ứng."
+    },
+    {
+        "id": 9,
+        "text": "Ceramide NP là lipid sinh học mô phỏng hàng rào da tự nhiên, giúp giảm mất nước cho làn da khô yếu."
+    },
+    {
+        "id": 10,
+        "text": "Alpha Arbutin có nguồn gốc tổng hợp, giúp làm đều màu da và cải thiện tình trạng tăng sắc tố."
+    },
+    {
+        "id": 11,
+        "text": "Chiết xuất trà xanh với INCI là Camellia Sinensis Leaf Extract có nguồn gốc thực vật, giúp chống oxy hóa và làm dịu da mụn."
+    },
+    {
+        "id": 12,
+        "text": "Zinc PCA là hoạt chất có nguồn gốc khoáng chất, giúp điều tiết bã nhờn và giảm mụn viêm."
+    },
+    {
+        "id": 13,
+        "text": "Tranexamic Acid có nguồn gốc tổng hợp, giúp cải thiện nám và làm sáng da không đều màu."
+    },
+    {
+        "id": 14,
+        "text": "Beta Glucan có nguồn gốc từ yến mạch, giúp tăng cường hàng rào bảo vệ cho da nhạy cảm."
+    },
+    {
+        "id": 15,
+        "text": "Madecassoside là hoạt chất chiết xuất từ rau má, giúp làm dịu da tổn thương và giảm kích ứng."
+    },
+    {
+        "id": 16,
+        "text": "Chiết xuất cam thảo với INCI là Glycyrrhiza Glabra Root Extract có nguồn gốc thực vật, giúp làm sáng da và giảm đỏ."
+    },
+    {
+        "id": 17,
+        "text": "Tinh dầu tràm trà với INCI là Melaleuca Alternifolia Leaf Oil có nguồn gốc từ Úc, giúp kháng khuẩn cho da mụn."
+    },
+    {
+        "id": 18,
+        "text": "Squalane có nguồn gốc từ dầu olive, giúp dưỡng ẩm và làm mềm da khô bong tróc."
+    },
+    {
+        "id": 19,
+        "text": "Azelaic Acid có nguồn gốc từ ngũ cốc, giúp cải thiện mụn viêm và giảm thâm sau mụn."
+    },
+    {
+        "id": 20,
+        "text": "Peptide với INCI là Palmitoyl Tripeptide-1 có nguồn gốc tổng hợp, giúp tăng độ đàn hồi và chống lão hóa da."
+    },
+    {
+        "id": 21,
+        "text": "Allantoin có nguồn gốc từ thực vật, giúp làm dịu da và giảm cảm giác kích ứng."
+    },
+    {
+        "id": 22,
+        "text": "Vitamin E với INCI là Tocopherol có nguồn gốc từ dầu thực vật, giúp chống oxy hóa và bảo vệ da."
+    },
+    {
+        "id": 23,
+        "text": "Dầu tầm xuân với INCI là Rosa Canina Fruit Oil có nguồn gốc thực vật, giúp cải thiện sẹo và da khô."
+    },
+    {
+        "id": 24,
+        "text": "Urea là chất giữ ẩm có nguồn gốc tổng hợp, giúp làm mềm lớp sừng cho da khô ráp."
+    },
+    {
+        "id": 25,
+        "text": "Ferulic Acid có nguồn gốc từ cám gạo, giúp tăng hiệu quả chống oxy hóa cho làn da lão hóa."
+    },
+    {
+        "id": 26,
+        "text": "Chiết xuất nha đam với INCI là Aloe Barbadensis Leaf Extract có nguồn gốc thực vật, giúp cấp ẩm và làm dịu da cháy nắng."
+    },
+    {
+        "id": 27,
+        "text": "Lactic Acid có nguồn gốc từ sữa lên men, giúp tẩy tế bào chết nhẹ nhàng cho da nhạy cảm."
+    },
+    {
+        "id": 28,
+        "text": "Bakuchiol có nguồn gốc từ cây babchi, giúp chống lão hóa mà ít gây kích ứng hơn retinol."
+    },
+    {
+        "id": 29,
+        "text": "Chiết xuất hoa cúc với INCI là Chamomilla Recutita Extract có nguồn gốc thực vật, giúp giảm viêm da."
+    },
+    {
+        "id": 30,
+        "text": "Caffeine có nguồn gốc từ hạt cà phê, giúp giảm bọng mắt và làm sáng vùng da quanh mắt."
+    },
+    {
+        "id": 31,
+        "text": "Collagen thủy phân có nguồn gốc sinh học, giúp cải thiện độ đàn hồi cho da lão hóa."
+    },
+    {
+        "id": 32,
+        "text": "Glycerin có nguồn gốc thực vật, giúp giữ ẩm và cải thiện da khô thiếu nước."
+    },
+    {
+        "id": 33,
+        "text": "Chiết xuất yến mạch với INCI là Avena Sativa Kernel Extract có nguồn gốc thực vật, giúp làm dịu da nhạy cảm."
+    },
+    {
+        "id": 34,
+        "text": "Resveratrol có nguồn gốc từ vỏ nho, giúp chống oxy hóa và bảo vệ da khỏi tác hại môi trường."
+    },
+    {
+        "id": 35,
+        "text": "Vitamin B12 có nguồn gốc tổng hợp, giúp làm dịu da khô và giảm mẩn đỏ."
+    },
+    {
+        "id": 36,
+        "text": "Shea Butter với INCI là Butyrospermum Parkii Butter có nguồn gốc từ hạt shea châu Phi, giúp dưỡng ẩm sâu cho da khô."
+    },
+    {
+        "id": 37,
+        "text": "Chiết xuất nhân sâm với INCI là Panax Ginseng Root Extract có nguồn gốc từ Hàn Quốc, giúp chống lão hóa da."
+    },
+    {
+        "id": 38,
+        "text": "Betaine có nguồn gốc từ củ cải đường, giúp giữ ẩm và giảm kích ứng da."
+    },
+    {
+        "id": 39,
+        "text": "Copper Peptide có nguồn gốc tổng hợp, giúp hỗ trợ tái tạo da tổn thương."
+    },
+    {
+        "id": 40,
+        "text": "Chiết xuất hoa hồng với INCI là Rosa Damascena Flower Water có nguồn gốc thực vật, giúp cấp ẩm và làm dịu da."
+    },
+    {
+        "id": 41,
+        "text": "Snow Mushroom Extract với INCI là Tremella Fuciformis Extract có nguồn gốc từ nấm tuyết, giúp cấp ẩm cho da khô."
+    },
+    {
+        "id": 42,
+        "text": "Sulfur có nguồn gốc khoáng chất, giúp kiểm soát mụn và giảm dầu thừa."
+    },
+    {
+        "id": 43,
+        "text": "Vitamin K có nguồn gốc tổng hợp, giúp cải thiện quầng thâm và da không đều màu."
+    },
+    {
+        "id": 44,
+        "text": "Chiết xuất dưa leo với INCI là Cucumis Sativus Extract có nguồn gốc thực vật, giúp làm mát và dịu da."
+    },
+    {
+        "id": 45,
+        "text": "PHA với thành phần Gluconolactone có nguồn gốc sinh học, giúp tẩy tế bào chết nhẹ cho da nhạy cảm."
+    },
+    {
+        "id": 46,
+        "text": "Chiết xuất tảo biển với INCI là Algae Extract có nguồn gốc đại dương, giúp cấp khoáng cho da mệt mỏi."
+    },
+    {
+        "id": 47,
+        "text": "Mandelic Acid có nguồn gốc từ hạnh nhân đắng, giúp cải thiện mụn và thâm da."
+    },
+    {
+        "id": 48,
+        "text": "Chiết xuất hoa oải hương với INCI là Lavandula Angustifolia Extract có nguồn gốc thực vật, giúp làm dịu da căng thẳng."
+    },
+    {
+        "id": 49,
+        "text": "Arginine có nguồn gốc amino acid tự nhiên, giúp dưỡng ẩm và phục hồi da."
+    },
+    {
+        "id": 50,
+        "text": "Chiết xuất gạo với INCI là Oryza Sativa Extract có nguồn gốc thực vật, giúp làm sáng da xỉn màu."
+    },
+    {
+        "id": 51,
+        "text": "Chiết xuất quả lựu với INCI là Punica Granatum Extract có nguồn gốc thực vật, giúp chống oxy hóa cho da lão hóa."
+    },
+    {
+        "id": 52,
+        "text": "Phytic Acid có nguồn gốc từ ngũ cốc, giúp làm sáng da và hỗ trợ giảm nám."
+    },
+    {
+        "id": 53,
+        "text": "Chiết xuất dâu tằm với INCI là Morus Alba Extract có nguồn gốc thực vật, giúp cải thiện sắc tố da."
+    },
+    {
+        "id": 54,
+        "text": "Vitamin F có nguồn gốc từ acid béo thiết yếu, giúp phục hồi da khô yếu."
+    },
+    {
+        "id": 55,
+        "text": "Chiết xuất hoa sen với INCI là Nelumbo Nucifera Extract có nguồn gốc thực vật, giúp làm dịu da nhạy cảm."
+    },
+    {
+        "id": 56,
+        "text": "Chiết xuất hạt nho với INCI là Vitis Vinifera Seed Extract có nguồn gốc thực vật, giúp chống oxy hóa da."
+    },
+    {
+        "id": 57,
+        "text": "Chiết xuất lá neem với INCI là Azadirachta Indica Leaf Extract có nguồn gốc Ấn Độ, giúp kháng khuẩn cho da mụn."
+    },
+    {
+        "id": 58,
+        "text": "Chiết xuất hoa cúc la mã với INCI là Anthemis Nobilis Extract có nguồn gốc thực vật, giúp làm dịu da kích ứng."
+    },
+    {
+        "id": 59,
+        "text": "Vitamin C dẫn xuất với INCI là Sodium Ascorbyl Phosphate có nguồn gốc tổng hợp, giúp làm sáng da nhạy cảm."
+    },
+    {
+        "id": 60,
+        "text": "Chiết xuất mật ong với INCI là Honey Extract có nguồn gốc tự nhiên, giúp dưỡng ẩm và phục hồi da."
+    },
+    {
+        "id": 61,
+        "text": "Chiết xuất tảo xoắn với INCI là Spirulina Extract có nguồn gốc sinh học, giúp tăng sức sống cho da mệt mỏi."
+    },
+    {
+        "id": 62,
+        "text": "Chiết xuất cây phỉ với INCI là Hamamelis Virginiana Extract có nguồn gốc thực vật, giúp se lỗ chân lông cho da dầu."
+    },
+    {
+        "id": 63,
+        "text": "Chiết xuất hoa anh đào với INCI là Prunus Serrulata Extract có nguồn gốc Nhật Bản, giúp làm sáng da xỉn màu."
+    },
+    {
+        "id": 64,
+        "text": "Vitamin A Palmitate có nguồn gốc tổng hợp, giúp cải thiện nếp nhăn và da lão hóa."
+    },
+    {
+        "id": 65,
+        "text": "Chiết xuất quả mâm xôi với INCI là Rubus Idaeus Extract có nguồn gốc thực vật, giúp chống oxy hóa cho da."
+    },
+    {
+        "id": 66,
+        "text": "Chiết xuất hoa mẫu đơn với INCI là Paeonia Lactiflora Extract có nguồn gốc châu Á, giúp làm đều màu da."
+    },
+    {
+        "id": 67,
+        "text": "Chiết xuất cây liễu trắng với INCI là Salix Alba Bark Extract có nguồn gốc thực vật, giúp giảm mụn đầu đen."
+    },
+    {
+        "id": 68,
+        "text": "Chiết xuất hạt cà phê xanh với INCI là Coffea Arabica Seed Extract có nguồn gốc tự nhiên, giúp làm săn chắc da."
+    },
+    {
+        "id": 69,
+        "text": "Chiết xuất lá bạc hà với INCI là Mentha Piperita Extract có nguồn gốc thực vật, giúp làm mát da dầu."
+    },
+    {
+        "id": 70,
+        "text": "Vitamin PP với INCI là Niacinamide có nguồn gốc tổng hợp, giúp cải thiện hàng rào da."
+    },
+    {
+        "id": 71,
+        "text": "Chiết xuất rong biển nâu với INCI là Laminaria Digitata Extract có nguồn gốc đại dương, giúp cấp khoáng cho da."
+    },
+    {
+        "id": 72,
+        "text": "Chiết xuất hoa nhài với INCI là Jasminum Officinale Extract có nguồn gốc thực vật, giúp làm dịu da căng thẳng."
+    },
+    {
+        "id": 73,
+        "text": "Chiết xuất quả kiwi với INCI là Actinidia Chinensis Extract có nguồn gốc thực vật, giúp làm sáng da."
+    },
+    {
+        "id": 74,
+        "text": "Chiết xuất rễ nghệ với INCI là Curcuma Longa Root Extract có nguồn gốc tự nhiên, giúp giảm viêm và thâm mụn."
+    },
+    {
+        "id": 75,
+        "text": "Vitamin H với INCI là Biotin có nguồn gốc tổng hợp, giúp cải thiện làn da yếu."
+    },
+    {
+        "id": 76,
+        "text": "Chiết xuất hoa sen tuyết với INCI là Saussurea Involucrata Extract có nguồn gốc vùng núi cao, giúp chống lão hóa."
+    },
+    {
+        "id": 77,
+        "text": "Chiết xuất hạt lúa mì với INCI là Triticum Vulgare Extract có nguồn gốc thực vật, giúp dưỡng ẩm da."
+    },
+    {
+        "id": 78,
+        "text": "Chiết xuất quả bơ với INCI là Persea Gratissima Extract có nguồn gốc tự nhiên, giúp nuôi dưỡng da khô."
+    },
+    {
+        "id": 79,
+        "text": "Chiết xuất quả cam thảo dây với INCI là Glycyrrhiza Uralensis Extract có nguồn gốc châu Á, giúp làm sáng da."
+    },
+    {
+        "id": 80,
+        "text": "Vitamin C ổn định với INCI là Ethyl Ascorbic Acid có nguồn gốc tổng hợp, giúp cải thiện da xỉn màu."
+    },
+    {
+        "id": 81,
+        "text": "Chiết xuất hạt jojoba với INCI là Simmondsia Chinensis Seed Oil có nguồn gốc thực vật, giúp cân bằng dầu cho da."
+    },
+    {
+        "id": 82,
+        "text": "Chiết xuất quả dưa hấu với INCI là Citrullus Lanatus Extract có nguồn gốc tự nhiên, giúp cấp nước cho da."
+    },
+    {
+        "id": 83,
+        "text": "Chiết xuất hoa cúc kim tiền với INCI là Calendula Officinalis Extract có nguồn gốc thực vật, giúp làm dịu da viêm."
+    },
+    {
+        "id": 84,
+        "text": "Chiết xuất quả táo với INCI là Pyrus Malus Extract có nguồn gốc tự nhiên, giúp làm sáng da."
+    },
+    {
+        "id": 85,
+        "text": "Vitamin B6 có nguồn gốc tổng hợp, giúp kiểm soát dầu và giảm mụn."
+    },
+    {
+        "id": 86,
+        "text": "Chiết xuất lá trà trắng với INCI là Camellia Sinensis Leaf Extract có nguồn gốc thực vật, giúp chống oxy hóa da."
+    },
+    {
+        "id": 87,
+        "text": "Chiết xuất quả mơ với INCI là Prunus Armeniaca Extract có nguồn gốc tự nhiên, giúp làm mềm da khô."
+    },
+    {
+        "id": 88,
+        "text": "Chiết xuất quả lô hội với INCI là Aloe Vera Extract có nguồn gốc thực vật, giúp làm dịu da nhạy cảm."
+    },
+    {
+        "id": 89,
+        "text": "Vitamin C lipid với INCI là Ascorbyl Tetraisopalmitate có nguồn gốc tổng hợp, giúp chống lão hóa da."
+    },
+    {
+        "id": 90,
+        "text": "Chiết xuất quả nho đen với INCI là Ribes Nigrum Extract có nguồn gốc tự nhiên, giúp bảo vệ da."
+    },
+    {
+        "id": 91,
+        "text": "Chiết xuất quả việt quất với INCI là Vaccinium Myrtillus Extract có nguồn gốc thực vật, giúp chống oxy hóa."
+    },
+    {
+        "id": 92,
+        "text": "Chiết xuất hoa mộc lan với INCI là Magnolia Officinalis Extract có nguồn gốc châu Á, giúp làm dịu da."
+    },
+    {
+        "id": 93,
+        "text": "Chiết xuất lá lô hội với INCI là Aloe Barbadensis Leaf Juice có nguồn gốc tự nhiên, giúp phục hồi da."
+    },
+    {
+        "id": 94,
+        "text": "Vitamin B9 với INCI là Folic Acid có nguồn gốc tổng hợp, giúp cải thiện làn da xỉn màu."
+    },
+    {
+        "id": 95,
+        "text": "Chiết xuất hạt hướng dương với INCI là Helianthus Annuus Seed Oil có nguồn gốc thực vật, giúp dưỡng ẩm da."
+    },
+    {
+        "id": 96,
+        "text": "Chiết xuất quả lê với INCI là Pyrus Communis Extract có nguồn gốc tự nhiên, giúp làm mềm da."
+    },
+    {
+        "id": 97,
+        "text": "Chiết xuất hoa anh túc với INCI là Papaver Rhoeas Extract có nguồn gốc thực vật, giúp làm dịu da."
+    },
+    {
+        "id": 98,
+        "text": "Chiết xuất rễ đinh hương với INCI là Eugenia Caryophyllus Extract có nguồn gốc tự nhiên, giúp kháng khuẩn da."
+    },
+    {
+        "id": 99,
+        "text": "Vitamin B1 với INCI là Thiamine có nguồn gốc tổng hợp, giúp cải thiện sức sống làn da."
+    },
+    {
+        "id": 100,
+        "text": "Chiết xuất vỏ quế với INCI là Cinnamomum Zeylanicum Bark Extract có nguồn gốc tự nhiên, giúp làm ấm và kích thích da."
+    }
+]

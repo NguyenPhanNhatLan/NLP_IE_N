@@ -1,0 +1,68 @@
+relations:
+  has_inci_name:
+    head: NAME
+    tail: INCI
+
+  has_benefits:
+    head: NAME
+    tail: BENEFITS
+
+  has_origin:
+    head: NAME
+    tail: ORIGIN
+
+  targets_skin_concerns:
+    head: NAME
+    tail: SKIN_CONCERNS
+
+
+# =========================
+# Valid entity types used as tail in RE sampling / rules
+# =========================
+valid_tail_types:
+  - INCI
+  - ORIGIN
+  - BENEFITS
+  - SKIN_CONCERNS
+
+
+# =========================
+# All entity types
+# =========================
+entity_types:
+  - NAME
+  - INCI
+  - ORIGIN
+  - BENEFITS
+  - SKIN_CONCERNS
+
+
+# =========================
+# map from model tag suffix (lowercase) -> canonical type
+# =========================
+label_map:
+  name: NAME
+  inci: INCI
+  origin: ORIGIN
+  benefits: BENEFITS
+  skin_concerns: SKIN_CONCERNS
+
+
+# =========================
+# Human-readable titles (for decode / UI / report)
+# =========================
+section_titles:
+  has_inci_name: "Tên khoa học"
+  has_benefits: "Công dụng"
+  has_origin: "Nguồn gốc"
+  targets_skin_concerns: "Vấn đề da"
+
+
+# =========================
+# Explicit relation order (optional)
+# =========================
+relations_order:
+  - has_inci_name
+  - has_benefits
+  - has_origin
+  - targets_skin_concerns
